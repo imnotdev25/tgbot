@@ -1,0 +1,1 @@
+# tgbot binary for heroku
